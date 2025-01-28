@@ -1,4 +1,4 @@
-# Olá, bem vindo ao meu repositório ^_+
+# Olá, bem vindo ao meu perfil ^_+
 
 Me chamo José, e utilizo o nickname JosefinoXP para qualquer coisa que envolva na internet, nem me pergunte de onde eu arranjei ele kkkkkkk.
 
