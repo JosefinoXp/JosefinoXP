@@ -1,10 +1,10 @@
-# Olá, bem vindo ao meu perfil ^_+
+# Olá, bem vindo ao meu perfil!
 
-Me chamo José, e utilizo o nickname JosefinoXP para qualquer coisa que envolva na internet, nem me pergunte de onde eu arranjei ele kkkkkkk.
+Me chamo José, fique 
 
 Por enquanto não terei muitos repositórios, pois estou aprendendo a utilizar o Git e GitHub passo a passo.
 
-Me sinto contente por saber que meus códigos estão sendo de boa ajuda para realizar seus projetos, fique a vontade para ~~plagiar~~ se inspirar ou fazer qualquer coisa.
+Me sinto contente por saber que meus códigos estão sendo de boa ajuda para realizar seus projetos, fique a vontade para se pegar meus códigos como referência.
 
 # Graduação
 
