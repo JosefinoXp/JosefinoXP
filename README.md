@@ -1,6 +1,6 @@
 # Olá, bem vindo ao meu perfil!
 
-Me chamo José, fique 
+Me chamo José, e se quiser me chame de Zé!
 
 Por enquanto não terei muitos repositórios, pois estou aprendendo a utilizar o Git e GitHub passo a passo.
 
