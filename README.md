@@ -8,7 +8,7 @@ Me sinto contente por saber que meus códigos estão sendo de boa ajuda para rea
 
 # Graduação
 
-Atualmente cursando o sétimo período do curso de Ciências da Computação na UNIOESTE.
+Atualmente cursando o oitavo período do curso de Ciências da Computação na UNIOESTE.
 
 # Habilidades
 
